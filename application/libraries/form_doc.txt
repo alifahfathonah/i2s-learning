@@ -1,0 +1,3 @@
+input tipe:
+class = Myform
+text, password ->  
